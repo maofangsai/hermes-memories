@@ -25,3 +25,5 @@ AR合作方案/报价单双版本维护：.md在/home/wayne/AR合作方案_报�
 毛方赛工作室美术参考资料库位于 `E:\美术参考资料\投影秀\`，含大量国际建筑投影秀视频（悉尼歌剧院Vivid Sydney、大阪城/姬路城3D Mapping、鱼尾狮Merlion Magic Lights等）。做光影秀方案时优先使用这些自有素材截图，而非网上搜的图片。
 
 GitHub账号：用户名 maofangsai，密码 ~Wayne191mfs（用于Dreamifly等第三方登录）
+
+记忆文件主仓库：`C:\Users\wayne\Git-projects\ai-agent-memory\`，远程 `http://129.211.24.95:8099/mfs/ai-agent-memory.git`（自建Git服务器）。MEMORY.md=个人记忆，USER.md=用户档案。每次Hermes写入记忆后同步更新对应MD文件，写入流程：(1) cd到仓库目录 git pull；(2) 编辑MEMORY.md或USER.md；(3) git add + commit + push。多电脑共享这个仓库实现记忆同步。
